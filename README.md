@@ -10,7 +10,7 @@ This is for world News as (Bussines-Entertainment-Health-Science-Sports-Tecnolog
   <Pre>
 
 
-<img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/31e7caac-5d07-4a9a-ac43-bf7053aa1d1f" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/a7f7c9ae-ada1-4eb8-9e1b-2ea204690e68" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/340f091c-16c8-4227-b9b6-09180e96ac9e" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/e366e61e-5cb3-47b6-b6db-4a917911e3ef" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/ce486f46-8aa8-479f-837c-c46b445142d4" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/42724f01-99b3-4eb8-9a14-88cd9e2c4d60" style="width:150px">
+<img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/990d493a-4c3c-450d-935f-f5d23edd34a1" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/afc2b5e8-f1e7-429f-ba59-578c6c4f1616" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/4d9a2482-d0d6-43e5-b18f-8bda5c334341" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/11c084d2-0a63-4a2c-a3a0-e63ba320b552" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/ffef9954-9b21-47a7-81e7-86dcbfef2cd7" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/f65d14e5-cc34-4f96-a1a0-6135b476e810" style="width:150px">
 
 
 
@@ -23,7 +23,7 @@ This is for world News as (Bussines-Entertainment-Health-Science-Sports-Tecnolog
 
 <div>
   <Pre> 
-<img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/36813149-0fa8-451f-a313-8ca9d7b1a9f1" style="width:150px">
+<img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/8ccd2d1a-e85d-4585-99f6-f06e05f8c021" style="width:150px">
   </Pre>
 </div>
 
@@ -31,7 +31,7 @@ This is for world News as (Bussines-Entertainment-Health-Science-Sports-Tecnolog
 
 <div>
   <Pre>
-<img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/3d1b2e05-641c-42d6-966b-0eed494ab7fe" style="width:150px">
+<img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/97f97229-9f0b-4dc5-beb3-37119882ca5a" style="width:150px">
   </Pre>
 </div>
 
@@ -39,18 +39,22 @@ This is for world News as (Bussines-Entertainment-Health-Science-Sports-Tecnolog
 
 <div>
   <Pre>
-<img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/9f077cf4-6dde-49a6-b718-7a6f65b0c0c1" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/85295c99-dd02-4431-b34b-74a4d045b52e" style="width:150px">
+<img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/8ccd2d1a-e85d-4585-99f6-f06e05f8c021" style="width:150px">   <img src="https://github.com/Mohammed-yunis/News-App/assets/91242086/cb0eb828-9763-4b83-8711-6ff4dc9606a0" style="width:150px">
 
   </Pre>
 </div>
 
 <div>
   <pre>
-    <video src="https://github.com/Mohammed-yunis/News-App/assets/91242086/d30ac730-1e1b-402d-9312-96fed24530f3" style="width:300px"> </video>
+    <video src="https://github.com/Mohammed-yunis/News-App/assets/91242086/fc1f0c53-7b27-4dda-8474-fbbdfb3e9895" style="width:300px"> </video>
   </pre>
 </div>
   
   
+
+
+
+
 
 
 
